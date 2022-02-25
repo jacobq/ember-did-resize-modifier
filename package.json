@@ -1,7 +1,7 @@
 {
   "name": "ember-did-resize-modifier",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember.js addon that provides modifier that triggers a callback on resize events observed on the target element",
   "keywords": [
     "ember-addon",
     "ember-modifier",
