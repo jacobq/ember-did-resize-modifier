@@ -14,9 +14,9 @@ The resize detection itself is handled by [element-resize-detector](https://gith
 
 ## Compatibility
 
-* Ember.js v3.12 or above
-* Ember CLI v2.13 or above
-* Node.js v10 or above
+* Ember.js v3.24 or above (CHECKME: Used to support 3.12)
+* Ember CLI v3.24 or above (CHECKME: Used to support 2.13)
+* Node.js v12 or above (CHECKME: Used to support v10)
 
 ## Installation
 
