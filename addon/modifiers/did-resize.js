@@ -6,10 +6,10 @@ const SERVICE_NAME = 'service:did-resize-detector';
 
 export default setModifierManager(
   (owner) => ({
-    capabilities: capabilities('3.13'),
+    capabilities: capabilities('3.22'),
 
     createModifier(factory) {
-      return new factory.class();
+      return new factory();
     },
 
     installModifier(instance, element, { positional: [ callback ], named: { debounce = 0 } }) {
